@@ -1,3 +1,7 @@
+body {
+  background-color: #494b4c;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +39,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+p {
+  color: chocolate;
+}
+
+.header {
+  color: burlywood;
+}
+.binance {
+  color: whitesmoke;
 }
